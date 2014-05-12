@@ -1,0 +1,22 @@
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\sequences\loltest.seq
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\sequences\mVreader - Copy.vi
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\sequences\mVreader.vi
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\sequences\Ohm.vi
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\sequences\TrigTest.vi
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\server.config.json
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\TestServer.dll
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\TestServer.pdb
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\Demo.Net.dll
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\Demo.Protocol.dll
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\ServerDemo.exe
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\Newtonsoft.Json.dll
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\Demo.Net.pdb
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\Demo.Protocol.pdb
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\Newtonsoft.Json.xml
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\obj\Release\TestServer.csprojResolveAssemblyReference.cache
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\obj\Release\TestServer.dll
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\obj\Release\TestServer.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\Demo.Utillities.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\Demo.Utillities.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\ServerDemo.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Release\sequences\0.seq

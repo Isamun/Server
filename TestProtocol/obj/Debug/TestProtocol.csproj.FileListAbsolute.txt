@@ -1,0 +1,17 @@
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\testdata\jsonPdu.json
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\TestProtocol.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\TestProtocol.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\Demo.Client.exe
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\Demo.Protocol.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\Demo.Net.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\Demo.Client.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\Demo.Protocol.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\Demo.Net.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\obj\Debug\TestProtocol.csprojResolveAssemblyReference.cache
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\obj\Debug\TestProtocol.Properties.Resources.resources
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\obj\Debug\TestProtocol.csproj.GenerateResource.Cache
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\obj\Debug\TestProtocol.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\obj\Debug\TestProtocol.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestProtocol\bin\Debug\testdata\out.json

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{7ADE0DB9-7A4B-40DA-BABB-A187E52735F0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>Demo.Protocol</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Demo.Protocol</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="NationalInstruments.TestStand.Interop.API, Version=5.0.0.252, Culture=neutral, PublicKeyToken=ad9244eb3b825cd8, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.6\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Login.cs" />
+    <Compile Include="DomainObject.cs" />
+    <Compile Include="Execution.cs" />
+    <Compile Include="IProtocolCommands.cs" />
+    <Compile Include="IProtocolMessages.cs" />
+    <Compile Include="PDU.cs" />
+    <Compile Include="Procedure.cs" />
+    <Compile Include="ListOfProcedures.cs" />
+    <Compile Include="Sequence.cs" />
+    <Compile Include="Step.cs" />
+    <Compile Include="Utilitites.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".git\config" />
+    <None Include=".git\description" />
+    <None Include=".git\FETCH_HEAD" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\hooks\applypatch-msg.sample" />
+    <None Include=".git\hooks\commit-msg.sample" />
+    <None Include=".git\hooks\post-commit.sample" />
+    <None Include=".git\hooks\post-receive.sample" />
+    <None Include=".git\hooks\post-update.sample" />
+    <None Include=".git\hooks\pre-applypatch.sample" />
+    <None Include=".git\hooks\pre-commit.sample" />
+    <None Include=".git\hooks\pre-rebase.sample" />
+    <None Include=".git\hooks\prepare-commit-msg.sample" />
+    <None Include=".git\hooks\update.sample" />
+    <None Include=".git\index" />
+    <None Include=".git\info\exclude" />
+    <None Include=".git\logs\HEAD" />
+    <None Include=".git\logs\refs\heads\master" />
+    <None Include=".git\logs\refs\remotes\origin\event-driven" />
+    <None Include=".git\logs\refs\remotes\origin\HEAD" />
+    <None Include=".git\logs\refs\remotes\origin\master" />
+    <None Include=".git\objects\00\65f0e83d6e59ffc77e909ea3bd09ae95df45dc" />
+    <None Include=".git\objects\12\4e10b386ab4dcacc02c806250725a7bad357ce" />
+    <None Include=".git\objects\13\a5e6362985280e8d3e2c97732a7066745c4706" />
+    <None Include=".git\objects\14\1ae94af446105e713c70b9dbbc8ac3f310342b" />
+    <None Include=".git\objects\1a\31a6978adc661bb9394ec47b3c3d0c5dfbc901" />
+    <None Include=".git\objects\56\79ad0fee3fe0554d75b2c76675f9aac9a68d26" />
+    <None Include=".git\objects\5a\ec38c7fe9efba6c263f6b746ad58a11728ae33" />
+    <None Include=".git\objects\71\caaa474ec437c59e10b5ddfa68b8621240232b" />
+    <None Include=".git\objects\78\324a64fe6359103b9c7d717a9b4a2338436cb2" />
+    <None Include=".git\objects\84\1eebdd8c228e060ca6b80e2bdb2cb7e907c58c" />
+    <None Include=".git\objects\86\8f236b4c8a30e1eefa7eb76987dc7c1af4866f" />
+    <None Include=".git\objects\90\f7e0b89a9570239f4777270972206fba64fa1e" />
+    <None Include=".git\objects\94\12a388ed84ecafd1d07c6784ddc42af2501bcf" />
+    <None Include=".git\objects\9a\adad1104eca4f805d11a18789e25b4cdeab277" />
+    <None Include=".git\objects\b1\23012f30981d1cf89b1bbc9300548b5ddd63bd" />
+    <None Include=".git\objects\b2\0c5fde488a8999ca653d4ac0a77ae60ff652dd" />
+    <None Include=".git\objects\bc\f157715b7d0cebd612c33060ae073643dcb728" />
+    <None Include=".git\objects\c0\8486ab5e3839dbcaaddc0025fe972b043e4935" />
+    <None Include=".git\objects\e4\9f2ba43201b0c6c57589d0a8b40222c0c64d80" />
+    <None Include=".git\objects\eb\5e727db13d0a8f5bf9b198451f36439c320ebe" />
+    <None Include=".git\objects\fb\1dd0beccd4b5697cd525e5f5ad1adaed2a860e" />
+    <None Include=".git\ORIG_HEAD" />
+    <None Include=".git\packed-refs" />
+    <None Include=".git\refs\heads\master" />
+    <None Include=".git\refs\remotes\origin\event-driven" />
+    <None Include=".git\refs\remotes\origin\HEAD" />
+    <None Include=".git\refs\remotes\origin\master" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="packages.config" />
+    <None Include="Scripts\jquery-2.0.3.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".git\objects\info\" />
+    <Folder Include=".git\objects\pack\" />
+    <Folder Include=".git\refs\tags\" />
+    <Folder Include="Tests\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\jquery-2.0.3.intellisense.js" />
+    <Content Include="Scripts\jquery-2.0.3.js" />
+    <Content Include="Scripts\jquery-2.0.3.min.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

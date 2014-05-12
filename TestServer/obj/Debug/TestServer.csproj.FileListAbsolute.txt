@@ -1,0 +1,20 @@
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\sequences\loltest.seq
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\sequences\mVreader - Copy.vi
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\sequences\mVreader.vi
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\sequences\Ohm.vi
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\sequences\lolseq.seq
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\sequences\TrigTest.vi
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\server.config.json
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\TestServer.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\TestServer.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\Demo.Net.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\Demo.Protocol.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\ServerDemo.exe
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\Demo.Net.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\ServerDemo.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\Demo.Protocol.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\obj\Debug\TestServer.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\TestServer\obj\Debug\TestServer.pdb

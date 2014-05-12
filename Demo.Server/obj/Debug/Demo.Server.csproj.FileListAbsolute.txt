@@ -1,0 +1,21 @@
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\sequences\loltest.seq
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\sequences\mVreader - Copy.vi
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\sequences\mVreader.vi
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\sequences\Ohm.vi
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\sequences\lolseq.seq
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\sequences\TrigTest.vi
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\server.config.json
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\ServerDemo.exe.config
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\ServerDemo.exe
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\ServerDemo.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\Demo.Net.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\Demo.Protocol.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\Demo.Net.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\Demo.Protocol.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\obj\Debug\Demo.Server.csprojResolveAssemblyReference.cache
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\obj\Debug\Demo.Server.Properties.Resources.resources
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\obj\Debug\Demo.Server.csproj.GenerateResource.Cache
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\obj\Debug\ServerDemo.exe
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Server\obj\Debug\ServerDemo.pdb

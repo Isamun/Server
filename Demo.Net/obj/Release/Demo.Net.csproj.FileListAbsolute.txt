@@ -1,0 +1,5 @@
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Net\bin\Release\Demo.Net.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Net\bin\Release\Demo.Net.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Net\obj\Release\Demo.Net.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Net\obj\Release\Demo.Net.pdb
+c:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Demo.Net\obj\Release\Demo.Net.csprojResolveAssemblyReference.cache

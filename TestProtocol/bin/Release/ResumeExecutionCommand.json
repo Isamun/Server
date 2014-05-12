@@ -1,0 +1,11 @@
+{
+  "MessageID": 1505,
+  "MessageDescription": "Server Please, resume the sequencefile I specified as part of this message.",
+  "MessageType": null,
+  "Source": "Unknown Source",
+  "Data": {
+    "SequenceFileName": "loltest.seq"
+  },
+  "TimeStamp": "2013-07-30T22:56:55.2380384+02:00",
+  "HASH": "32a16c040926e4708bf117cf02774ab3"
+}

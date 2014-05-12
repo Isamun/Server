@@ -1,0 +1,5 @@
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\AsyncClientSocket\AsyncSocketClientLib\AsyncSocketClientLib\obj\Debug\AsyncSocketClientLib.csprojResolveAssemblyReference.cache
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\AsyncClientSocket\AsyncSocketClientLib\AsyncSocketClientLib\bin\Debug\AsyncSocketClientLib.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\AsyncClientSocket\AsyncSocketClientLib\AsyncSocketClientLib\bin\Debug\AsyncSocketClientLib.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\AsyncClientSocket\AsyncSocketClientLib\AsyncSocketClientLib\obj\Debug\AsyncSocketClientLib.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\AsyncClientSocket\AsyncSocketClientLib\AsyncSocketClientLib\obj\Debug\AsyncSocketClientLib.pdb

@@ -1,0 +1,73 @@
+﻿<Window x:Class="Demo.Client.MainWindow"
+        xmlns:local="clr-namespace:Demo.Client"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="Cgull Demo Client" Height="720" Width="1365.5">
+    <Window.Resources>
+        <local:StepStatusConvertStatusToColor x:Key="kake"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="#FF013147" Offset="1"/>
+                <GradientStop Color="#FFE7E8EC"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+        <Image Margin="25,21,1193,532" Source="CgullIcon.png" Stretch="Fill" RenderTransformOrigin="-1.705,-0.82" />
+        <Image Margin="448,42,510,592" Source="resources/aker_solutions.png" Stretch="Fill" RenderTransformOrigin="-1.705,-0.82" />
+        <ScrollViewer Name="Scroller" Grid.Row="0" VerticalScrollBarVisibility="Hidden" Margin="0,10,49,44" >
+            <ListView Name="SeqList" HorizontalAlignment="right" FontSize="20"  Height="500" VerticalAlignment="Bottom" Width="1086" FontFamily="Segoe UI" ItemsSource="{Binding CurrentExecution.CurrentSequence.StepList}" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                <ListView.View>
+                    <GridView AllowsColumnReorder="False">
+                        <GridViewColumn Header="Name" Width="280">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="280" Text="{Binding Name}" FontSize="20" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Description" Width="260" >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="260" Text="{Binding Description}" FontSize="20"  />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Settings" Width="260">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="260" Text="{Binding Settings}" FontSize="20"  />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Status" Width="260">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="260" FontSize="20"  Text="{Binding Status }" Background="{Binding Status, Converter={StaticResource kake}}" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </ScrollViewer>
+        <Image Margin="1203,14,55,559" Source="u0fkv3ow.bmp" Stretch="Fill" Width="100" Height="120" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button Name="StartButton" Content="Start Sequence" HorizontalAlignment="Left" Margin="25,215,0,0" VerticalAlignment="Top" Width="182" Height="65" Click="StartButton_Click" FontFamily="Segoe UI" FontSize="20"/>
+        <Button Name="Resume_Sequence" Content="Resume Sequence" HorizontalAlignment="Left" Margin="25,359,0,0" VerticalAlignment="Top" Width="182" Height="66" Click="ResumeButton_Click" FontFamily="Segoe UI" FontSize="20"/>
+        <Label Content="{Binding CurrentExecution.State}" HorizontalAlignment="Left" Margin="38,596,0,0" VerticalAlignment="Top" FontSize="20" Foreground="#FFFF7300" FontFamily="Segoe UI" Background="{x:Null}"/>
+        <Label Content="Workshop Technician" HorizontalAlignment="Left" Margin="996,21,0,0" VerticalAlignment="Top" FontSize="20" Foreground="#FFFF7300" FontFamily="Segoe UI" Background="{x:Null}"/>
+        <CheckBox Content="Connected" HorizontalAlignment="Left" Margin="38,536,0,0" VerticalAlignment="Top" Width="127" Height="34" FontFamily="Segoe UI" FontSize="20" Foreground="#FFFF7300" IsChecked="{Binding Path=Connected, Mode=OneWay}" IsEnabled="False" />
+        <Button x:Name="Pause_Sequence" Content="Pause Sequence" HorizontalAlignment="Left" Margin="25,287,0,0" VerticalAlignment="Top" Width="182" Height="66" Click="PauseButton_Click" FontFamily="Segoe UI" FontSize="20"/>
+        <Button x:Name="Abort_Sequnece" Content="Abort Sequence" HorizontalAlignment="Left" Margin="25,432,0,0" VerticalAlignment="Top" Width="182" Height="65" Click="StopButton_Click" FontFamily="Segoe UI" FontSize="20"/>
+    </Grid>
+</Window>

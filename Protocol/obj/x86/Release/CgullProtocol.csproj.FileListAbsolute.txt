@@ -1,0 +1,7 @@
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Protocol\bin\Release\Demo.Protocol.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Protocol\bin\Release\Demo.Protocol.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Protocol\bin\Release\Newtonsoft.Json.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Protocol\bin\Release\Newtonsoft.Json.xml
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Protocol\obj\x86\Release\Demo.Protocol.dll
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Protocol\obj\x86\Release\Demo.Protocol.pdb
+C:\Users\Isamun\Documents\Visual Studio 2012\Projects\Protocol\Protocol\obj\x86\Release\CgullProtocol.csprojResolveAssemblyReference.cache

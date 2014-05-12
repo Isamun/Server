@@ -1,0 +1,33 @@
+﻿{
+"MessageID" : 1302,
+"MessageType": "Event",
+"MessageDescription" : "Test Stand Engine has started Execution",
+"Source" : "TestStandEngine",
+"Data" : { "SequenceFileName" : "loltest.seq",
+"Sequence" : { "name" : "preUUT",
+"stepList" : [
+{
+"stepName" : "initateWATSconnection",
+"description" : "action, connecting to WATS",
+"settings" : "",
+"results" : ""
+},
+{
+"stepName" : "setupPSUA",
+"description" : "action, initiate high voltage output (10000V) ",
+"settings" : "Addition results",
+"results" : ""
+},
+{
+"stepName" : "setupPSUB",
+"description" : "action, initiate high voltage output (10000V) ",
+"settings" : "Addition results",
+"results" : ""
+}
+]
+},
+"EntryPointModel" : "SinglePass"
+},
+"TimeStamp" : "02.08.2013 15:43:41",
+"HASHTAG" : "0A218B243F2D"
+}

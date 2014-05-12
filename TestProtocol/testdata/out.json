@@ -1,0 +1,47 @@
+{
+  "MessageID": 1301,
+  "MessageDescription": "Client please, Take this state I have boundled in this event and display it to the operator",
+  "MessageType": null,
+  "Source": "TestStand",
+  "Data": {
+    "CurrentStep": null,
+    "CurrentSequence": {
+      "StepList": [
+        {
+          "SequenceRef": null,
+          "Type": "",
+          "Status": 1337,
+          "Name": "PassFail Cake Test",
+          "Description": "Cake in face",
+          "Settings": "",
+          "Data": null,
+          "Index": -1
+        },
+        {
+          "SequenceRef": null,
+          "Type": "",
+          "Status": 1337,
+          "Name": "PassFail Cake Test 2",
+          "Description": "Cake in face",
+          "Settings": "",
+          "Data": null,
+          "Index": -1
+        },
+        {
+          "SequenceRef": null,
+          "Type": "",
+          "Status": 1337,
+          "Name": "PassFail Cake Test 3",
+          "Description": "Cake in face",
+          "Settings": "",
+          "Data": null,
+          "Index": -1
+        }
+      ],
+      "SequenceFileName": "lolseq.seq"
+    },
+    "State": 1337
+  },
+  "TimeStamp": "2013-08-09T15:48:30.2057064+02:00",
+  "HASH": "746b71ce65d2f0a56f3c0b7fecec844d"
+}
